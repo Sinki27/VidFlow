@@ -1,0 +1,108 @@
+{
+    "videos": [
+      {
+        "id": 1,
+        "titulo": "Ele apareceu DO NADA e já virou TITULAR 🚀😈 | Quem é Kobbie Mainoo?",
+        "descricao": "122 mil visualizações",
+        "url": "https://www.youtube.com/embed/yafu3C_NVPY",
+        "imagem": "https://github.com/Sinki27/VidFlow/blob/main/euro_fut.png?raw=true",
+        "categoria": "Futebol Quem é"
+      }, 
+      {
+        "id": 2,
+        "titulo": "Times IMORTAIS: a Grécia do milagre de 2004 🏆",
+        "descricao": "89 mil visualizações",
+        "url": "https://www.youtube.com/embed/HNhyHRGlCWY",
+        "imagem": "https://github.com/Sinki27/VidFlow/blob/main/euro_fut.png?raw=true",
+        "categoria": "Futebol Times imortais"
+      },
+      {
+        "id": 3,
+        "titulo": "Jogadores que viraram ÍDOLOS em 3 clubes GIGANTES ⭐🌟✨",
+        "descricao": "287 mil visualizações",
+        "url": "https://www.youtube.com/embed/OfHppw-oobw",
+        "imagem": "https://github.com/Sinki27/VidFlow/blob/main/euro_fut.png?raw=true",
+        "categoria": "Futebol Idolos"
+      },
+      {
+        "id": 4,
+        "titulo": "Craques ETERNOS: Ronaldo, o Fenômeno ☝",
+        "descricao": "10 mi visualizações",
+        "url": "https://www.youtube.com/embed/Rytm4aZv_rA",
+        "imagem": "https://github.com/Sinki27/VidFlow/blob/main/euro_fut.png?raw=true",
+        "categoria": "Futebol Craques Eternos"
+      },
+      {
+        "id": 5,
+        "titulo": "Jogadores que viraram ÍDOLOS em 3 clubes GIGANTES ⭐🌟✨",
+        "descricao": "28 mil visualizações",
+        "url": "https://www.youtube.com/embed/PIWGSM9Xrk0",
+        "imagem": "https://github.com/Sinki27/VidFlow/blob/main/euro_fut.png?raw=true",
+        "categoria": "Futebol Podcasts"
+      },
+      {
+        "id": 6,
+        "titulo": "FINAL DA EUROCOPA! Espanha x Inglaterra 🌎 — EUROCOPA CAST #22",
+        "descricao": "2 aguardando",
+        "url": "https://www.youtube.com/embed/PED0RnRzL4Y",
+        "imagem": "https://github.com/Sinki27/VidFlow/blob/main/euro_fut.png?raw=true",
+        "categoria": "Futebol Podcasts"
+      },
+      {
+        "id": 7,
+        "titulo": "Data Science na prática- com Jéssika Ribeiro do Grupo...",
+        "descricao": "3,2 mil visualizações",
+        "url": "https://www.youtube.com/embed/Nts3P35mHzE",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Data Science"
+      },
+      {
+        "id": 8,
+        "titulo": "baNaNa | Memes do JavaScript #2",
+        "descricao": "1,2 mil visualizações",
+        "url": "https://www.youtube.com/embed/HBVCsBtsmzA",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "categoria": "Programação"
+      },
+      {
+        "titulo": "[Casa do Código] Live de lançamento: Navegando no Universo da Programação",
+        "descricao": "1 mil visualizações",
+        "url": "https://www.youtube.com/embed/z43rcfjXOxU",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 9,
+        "categoria": "Ao Vivo"
+      },
+      {
+        "titulo": "Guia de carreira Front-end | #HipstersPontoTube",
+        "descricao": "18 mil visualizações",
+        "url": "https://www.youtube.com/embed/fpth65ts3cw",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 10,
+        "categoria": "Debates"
+      },
+      {
+        "titulo": "Educação coorporativa",
+        "descricao": "4 mil visualizações",
+        "url": "https://www.youtube.com/embed/IGFSiBJIXFQ",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 11,
+        "categoria": "Inovação"
+      },
+      {
+        "titulo": "Como deixar o Layout Responsivo no seu site | #AluraMais",
+        "descricao": "7 mil visualizações",
+        "url": "https://www.youtube.com/embed/kyFiT4ofMwk",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 12,
+        "categoria": "Front-end"
+      },
+      {
+        "titulo": "Será que a inteligência artificial será tão poderosa quanto os seres humanos? com Gui Silveira",
+        "descricao": "12 mil visualizações",
+        "url": "https://www.youtube.com/embed/Kk3vBRqKA2o",
+        "imagem": "https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png?raw=true",
+        "id": 13,
+        "categoria": "Inteligência Artificial"
+      }
+    ]
+}
